@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tenthdeviation
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning C# and Unity
